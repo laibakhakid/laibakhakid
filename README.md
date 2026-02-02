@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @laibakhakid
+- 👋 Hi, I’m @laibakhalid
 - 👀 I’m interested in Software Engineering 
 - 🌱 I’m currently learning about the different languages of computer ...
 - 💞️ I’m looking to collaborate on learning the features of computer 💻💻
